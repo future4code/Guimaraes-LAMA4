@@ -1,4 +1,23 @@
 # Labenu Music Awards
-Como você deve saber muito bem, o nosso querido chefinho Astrodev é uma pessoa com Networking incrível e ele conhece vários artistas estrelados. Além disso, ele também é um grande ~~megalomaníaco~~ visionário e está planejando fazer um grande evento: o **LAMA**, *Labenu Musical Awards*, um festival  com várias bandas famosas para a formatura da sua turma e, no final, vocês podem eleger a banda que mais gostaram! Entretanto, na opinião dele, vocês só serão merecedores se entregarem um sistema impecável que permita o gerenciamento completo desses shows.
+image.png
 
-Para isso já deixamos algumas tabelas prontas para vocês não precisarem se preocupar com a modelagem do banco. Deixamos também um template do projeto já com a estrutura da parte de usuários. Vocês podem usá-las a vontade, mas, se quiser fazer do zero sem esse auxílio, também pode.
+📋 Sobre o Projeto
+O projeto teve como objetivo planejar um grande festival com bandas famosas para a formatura da turma: LAMA - Labenu Musical Awards. Onde encontram-se funções de cadastrar um usuário, uma banda e uma tabela de shows; realizar login; registrar a bansda; visualizar os detalhes sobre a banda; adicionar o show a um dia; pegar todos os shows de uma data. Como desafi, foi sugerido as funções de criar um ingresso; comprar ingresso; adicionar foto e pegar todas as fotos.
+
+🔗 Tecnologias utilizadas
+Node.js
+API Rest
+Typescript (POO)
+UUID
+axios
+express
+knex
+MySql
+Json web token
+
+🖥 Documentação
+//link heroku
+
+Desenvolvedoras:
+👩🏻‍💻 Ana Inada
+👩🏻‍💻 Patrícia Quarezemin
